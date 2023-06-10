@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='images/tetris.png' />
+  <img src='images/banner-tetris.png' />
 </p>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/TienNHM/Tetris-Cpp)](https://github.com/TienNHM/Tetris-Cpp/graphs/contributors)
